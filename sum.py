@@ -1,4 +1,4 @@
-a = 100
-b = 50
-c= a+b
-print(c)
+a = 10
+b = 5
+c = a * b
+print("Dev result:", c)

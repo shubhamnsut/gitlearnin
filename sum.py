@@ -1,5 +1,4 @@
-a = 10
-b = 34
-c=5
-c = a * b
-print("Dev result:", c)
+a = 7
+b = 3
+c = a - b
+print("Dev branch:", c)
